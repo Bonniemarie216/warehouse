@@ -385,7 +385,7 @@ urllib3==2.2.3 \
     # via
     #   requests
     #   responses
-waitress==3.0.0 \
+waitress==3.0.1 \
     --hash=sha256:005da479b04134cdd9dd602d1ee7c49d79de0537610d653674cc6cbde222b8a1 \
     --hash=sha256:2a06f242f4ba0cc563444ca3d1998959447477363a2d7e9b8b4d75d35cfd1669
     # via webtest
