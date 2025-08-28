@@ -774,7 +774,7 @@ grpcio-status==1.62.3 \
 grpclib==0.4.7 \
     --hash=sha256:2988ef57c02b22b7a2e8e961792c41ccf97efc2ace91ae7a5b0de03c363823c3
     # via betterproto
-h2==4.1.0 \
+h2==4.3.0 \
     --hash=sha256:03a46bcf682256c95b5fd9e9a99c1323584c3eec6440d379b9903d709476bc6d \
     --hash=sha256:a83aca08fbe7aacb79fec788c9c0bac936343560ed9ec18b82a13a12c28d2abb
     # via grpclib
