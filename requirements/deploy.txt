@@ -185,7 +185,7 @@ wrapt==1.16.0 \
     # via
     #   ddtrace
     #   deprecated
-xmltodict==0.13.0 \
+xmltodict==0.15.0 \
     --hash=sha256:341595a488e3e01a85a9d8911d8912fd922ede5fecc4dce437eb4b6c8d037e56 \
     --hash=sha256:aa89e8fd76320154a40d19a0df04a4695fb9dc5ba977cbb68ab3e4eb225e7852
     # via ddtrace
